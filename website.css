@@ -22,7 +22,7 @@ html{
     font-weight:bold;
 }
 .header{
-    position:fixed;
+    position:relative;
     margin:0px 10px 0px 10px;
     background: linear-gradient(to bottom right,rgb(231, 235, 7),rgb(18, 212, 12));
     width: calc(100%-10px);
