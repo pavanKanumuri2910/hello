@@ -15,11 +15,11 @@ html{
     text-indent: 100px;
     margin:0px 10px 0px 10px;
     padding:10px;
-    background-color:rgba(10, 43, 40, 0.575);
-    color:white;
+    background-color:rgba(227, 235, 235, 0.466);
+    color:black;
     font-size:1.2em;
     word-spacing:3px;
-    background-image: linear-gradient(to bottom right,rgb(16, 238, 201),rgb(213, 236, 83));
+    font-weight:bold;
 }
 .header{
     position:relative;
